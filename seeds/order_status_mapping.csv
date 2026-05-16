@@ -1,0 +1,6 @@
+status_code,status_label,is_active_order
+completed,Completed,false
+returned,Returned,false
+shipped,Shipped,true
+processing,Processing,true
+cancelled,Cancelled,false
