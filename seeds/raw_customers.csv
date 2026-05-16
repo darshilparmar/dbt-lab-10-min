@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,city,country,created_at
+1,Rahul,Sharma,rahul.sharma@email.com,Mumbai,India,2023-01-15
+2,Priya,Patel,priya.patel@email.com,Delhi,India,2023-01-22
+3,James,Wilson,james.wilson@email.com,New York,USA,2023-02-03
+4,Ananya,Gupta,ananya.gupta@email.com,Bangalore,India,2023-02-14
+5,Michael,Brown,michael.brown@email.com,London,UK,2023-03-01
+6,Sneha,Reddy,sneha.reddy@email.com,Hyderabad,India,2023-03-10
+7,Sarah,Johnson,sarah.johnson@email.com,San Francisco,USA,2023-03-18
+8,Amit,Kumar,amit.kumar@email.com,Pune,India,2023-04-05
+9,Emily,Davis,emily.davis@email.com,Chicago,USA,2023-04-12
+10,Vikram,Singh,vikram.singh@email.com,Jaipur,India,2023-04-20
+11,Olivia,Martinez,olivia.martinez@email.com,Toronto,Canada,2023-05-01
+12,Deepak,Joshi,deepak.joshi@email.com,Chennai,India,2023-05-15
+13,Sophia,Lee,sophia.lee@email.com,Sydney,Australia,2023-06-02
+14,Arjun,Nair,arjun.nair@email.com,Kochi,India,2023-06-18
+15,Daniel,Taylor,daniel.taylor@email.com,Berlin,Germany,2023-07-01
+16,Kavya,Menon,kavya.menon@email.com,Kolkata,India,2023-07-14
+17,Chris,Anderson,chris.anderson@email.com,Seattle,USA,2023-08-01
+18,Neha,Verma,neha.verma@email.com,Lucknow,India,2023-08-20
+19,Lucas,Garcia,lucas.garcia@email.com,Madrid,Spain,2023-09-05
+20,Pooja,Iyer,pooja.iyer@email.com,Coimbatore,India,2023-09-22

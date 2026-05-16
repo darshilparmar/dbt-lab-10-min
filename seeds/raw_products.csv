@@ -1,0 +1,11 @@
+product_id,product_name,category,price_in_cents,created_at
+101,Wireless Mouse,Electronics,2499,2023-01-01
+102,USB-C Hub,Electronics,3999,2023-01-01
+103,Mechanical Keyboard,Electronics,7999,2023-01-01
+104,Laptop Stand,Accessories,2999,2023-01-01
+105,Monitor Light Bar,Accessories,4599,2023-01-01
+106,Noise Cancelling Headphones,Electronics,12999,2023-01-01
+107,Webcam HD 1080p,Electronics,5499,2023-01-01
+108,Desk Mat XL,Accessories,1999,2023-01-01
+109,Phone Stand,Accessories,999,2023-01-01
+110,Portable Charger,Electronics,3499,2023-01-01
